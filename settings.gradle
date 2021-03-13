@@ -1,0 +1,3 @@
+include ':contribution-view'
+include ':sample'
+rootProject.name = "FastHub's Contribution View"
